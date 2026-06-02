@@ -1,0 +1,9 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.DS_Store
+
+# Server/runtime archives are not part of the standalone Android app
+new1.zip
